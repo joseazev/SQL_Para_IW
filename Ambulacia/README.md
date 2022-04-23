@@ -8,11 +8,11 @@ Este SQL tem a função retornar:
 
 * a operadora do paciente, 
 
-* o tipo de serviço da ambulancia, 
+* o tipo de serviço da ambulância, 
 
 * O preço negociado entre a empresa e a prestadora de serviço
 
-* Data do Inicio do serviço
+* Data do início do serviço
 
 * Data do fim do serviço 
 
