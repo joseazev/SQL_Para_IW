@@ -1,4 +1,4 @@
-# <center>SQL - Ambulancia</center>
+# <center>SQL - Ambulância</center>
 
 Este SQL tem a função retornar:
 
